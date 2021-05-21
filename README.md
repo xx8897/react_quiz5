@@ -1,2 +1,2 @@
-# react_quiz5
+# quiz5
  
